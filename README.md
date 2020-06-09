@@ -37,7 +37,7 @@ In addition of the previous tasks, we have the additional tasks assigned:
 (file *PyPoll_Challenge.py*)  
 The analysis of the election show that:
   - The county with the biggest turnout in Denver
-  - The votes for each counties are detailled below:
+  - The votes for each county are:
     - Jefferson: 10.5% (38,855)
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
