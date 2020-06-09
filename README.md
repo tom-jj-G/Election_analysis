@@ -13,7 +13,7 @@ A Colorado Board of Election employee has given you the following tasks to compl
 - Software: Python 3.6.1, Visual Studio Code 1.45.1
 
 ## Summary
-*(file PyPoll.py)*  
+(file *PyPoll.py*)  
 The analysis of the election show that:
   - There were 369,711 votes cast on the election.
   - The candidates were:
@@ -28,6 +28,16 @@ The analysis of the election show that:
     - Diana DeGette: 73.8% (272,892 votes)
 
 ## Challenge Overview
+In addition of the previous tasks, we have the additional tasks assigned:
+1. The voter turnout for each county
+2. The percentage of votes each county
+3. Determine which county had the largest turnout
 
 ## Challenge Summary
- 
+(file *PyPoll_Challenge.py*)  
+The analysis of the election show that:
+  - The county with the biggest turnout in Denver
+  - The votes for each counties are detailled below:
+    - Jefferson: 10.5% (38,855)
+    - Denver: 82.8% (306,055)
+    - Arapahoe: 6.7% (24,801)
